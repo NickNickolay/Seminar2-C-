@@ -1,0 +1,16 @@
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\DogSpeed.exe
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\DogSpeed.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\DogSpeed.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\DogSpeed.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\ref\DogSpeed.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\bin\Debug\net6.0\DogSpeed.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.GlobalUsings.g.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\ref\DogSpeed.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Семинар2_C#\DogSpeed\obj\Debug\net6.0\DogSpeed.genruntimeconfig.cache
